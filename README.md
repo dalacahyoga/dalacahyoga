@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @dalacahyoga
+- 👋 Hi, I’m dalacahyoga
 - 👀 I’m interested in new thing
+- 🎓 I'm a bachelor degree Informatics at Telkom University.
 - 🌱 I’m currently learning openCV
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me dalacahyoga99@gmail.com
